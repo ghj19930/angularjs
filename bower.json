@@ -1,0 +1,27 @@
+{
+  "name": "webapp",
+  "description": "angular js webapp",
+  "main": "",
+  "keywords": [
+    "angular",
+    "js"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "ghj19930 <1337666537@qq.com>"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.5"
+  },
+  "dependencies": {
+    "angular-ui-router": "^1.0.5"
+  }
+}
